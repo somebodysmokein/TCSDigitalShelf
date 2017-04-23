@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "src": "_shared/img/img1.jpg",
+            "title": "Proof Of Concept 1",
+            "color":"light-green accent-4"
+        },
+        {
+            "src": "_shared/img/img2.jpg",
+            "title": "Proof Of Concept 2",
+            "color":"pink lighten-3"
+        },
+        {
+            "src": "_shared/img/img3.jpg",
+            "title": "Proof Of Concept 3",
+            "color":"amber"
+        },
+        {
+            "src": "_shared/img/img4.jpg",
+            "title": "Proof Of Concept 4",
+            "color":"purple"
+        },
+        {
+            "src": "_shared/img/img5.jpg",
+            "title": "Proof Of Concept 5",
+            "color":"purple lighten-3"
+        },
+        {
+            "src": "_shared/img/img6.jpg",
+            "title": "Proof Of Concept 6",
+            "color":"pink darken-1"
+        }
+    ]
+}

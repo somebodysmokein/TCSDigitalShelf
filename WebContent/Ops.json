@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "src": "_shared/img/img1.jpg",
+            "title": "Ops Idea 1",
+            "color":"light-green accent-4"
+        },
+        {
+            "src": "_shared/img/img2.jpg",
+            "title": "Ops Idea 2",
+            "color":"pink lighten-3"
+        },
+        {
+            "src": "_shared/img/img3.jpg",
+            "title": "Ops Idea 3",
+            "color":"amber"
+        },
+        {
+            "src": "_shared/img/img4.jpg",
+            "title": "Ops Idea 4",
+            "color":"purple"
+        },
+        {
+            "src": "_shared/img/img5.jpg",
+            "title": "Ops Idea 5",
+            "color":"purple lighten-3"
+        },
+        {
+            "src": "_shared/img/img6.jpg",
+            "title": "Ops Idea 6",
+            "color":"pink darken-1"
+        }
+    ]
+}
